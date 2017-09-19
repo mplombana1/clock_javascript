@@ -1,3 +1,3 @@
-window.addEventListener function(e){
-  console.log("hello");
+window.addEventListener function(){
+  console.log('hello');
 };
